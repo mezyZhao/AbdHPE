@@ -68,10 +68,7 @@ If this work is helpful for your research, please cite AbdHPE. The BibTeX entry 
   author  = {Hai Liu and Ziyi Zhao and Chongxin Zheng and Tingting Liu and Zhaoli Zhang and You-Fu Li},
   journal = {IEEE Trans. Circuits Syst. Video Technol.},
   year    = {2026},
-  volume  = {To be updated},
-  number  = {To be updated},
-  pages   = {To be updated},
-  doi     = {To be updated},
+  note    = {To appear}
 }
 ```
 
