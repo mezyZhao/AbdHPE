@@ -66,9 +66,8 @@ If this work is helpful for your research, please cite AbdHPE. The BibTeX entry 
 @article{abdhpe,
   title   = {AbdHPE: Learning Abductive Relationships for Human Pose Estimation via Syntactic Holistic Perception},
   author  = {Hai Liu and Ziyi Zhao and Chongxin Zheng and Tingting Liu and Zhaoli Zhang and You-Fu Li},
-  journal = {IEEE Trans. Circuits Syst. Video Technol.},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology},
   year    = {2026},
-  note    = {To appear}
 }
 ```
 
